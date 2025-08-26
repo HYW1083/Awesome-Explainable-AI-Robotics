@@ -3,7 +3,7 @@
 ## Survey
 
 ### Suvey papers
-- Explainable autonomous robots: a survey and perspective[paper](https://doi.org/10.1080/01691864.2022.2029720) 
+- Explainable autonomous robots: a survey and perspective [paper](https://doi.org/10.1080/01691864.2022.2029720) 
 - Explainable Goal-driven Agents and Robots - A Comprehensive Review [paper](https://dl.acm.org/doi/pdf/10.1145/3564240) 
 - Who’s in Charge Here? A Survey on Trustworthy AI in Variable Autonomy Robotic Systems [paper](https://dl.acm.org/doi/pdf/10.1145/3645090) 
 - Explainable AI for Audio and Visual Affective Computing: A Scoping Review [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10766406) 
