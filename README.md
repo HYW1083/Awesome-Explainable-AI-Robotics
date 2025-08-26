@@ -16,13 +16,12 @@
 
 #### Vision
 
-| Date | Venue  | Paper | Project | Institution | 
-| ---- | ---- | ---- | ---- | ---- |
-|2023  | CVPR |  [CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation](https://openaccess.thecvf.com/content/CVPR2023/papers/Gadre_CoWs_on_Pasture_Baselines_and_Benchmarks_for_Language-Driven_Zero-Shot_Object_CVPR_2023_paper.pdf) |[CoW](https://cow.cs.columbia.edu/) | Columbia University |
-|2024 | IROS |  [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and  Object Localization Probability Maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) | VLPG-Nav | Amazon |
-|2024 |DICTA |[Towards Explainability of Affordance Learning in Robot Vision](https://ieeexplore.ieee.org/document/10869607) |[affordance-xai](https://github.com/ai-voyage/affordance-xai)|Edith Cowan University|
-|2025 | Arxiv |[Tell me why:  Visual foundation models as self-explainable classifiers](https://arxiv.org/abs/2502.19577) |[ProtoFM](https://github.com/hturbe/proto-fm)| University of Geneva |
-|2025 | Arxiv |[Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments](https://arxiv.org/pdf/2503.09820)|code|University of Maryland, College Park|
+- CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gadre_CoWs_on_Pasture_Baselines_and_Benchmarks_for_Language-Driven_Zero-Shot_Object_CVPR_2023_paper.pdf) [project](https://cow.cs.columbia.edu/) [code](https://github.com/real-stanford/cow)
+- VLPG-Nav: Object Navigation Using Visual Language Pose Graph and Object Localization Probability Maps [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) 
+- Towards Explainability of Affordance Learning in Robot Vision [paper](https://ieeexplore.ieee.org/document/10869607) [code](https://github.com/ai-voyage/affordance-xai) 
+- Tell me why: Visual foundation models as self-explainable classifiers [paper](https://arxiv.org/abs/2502.19577) [code](https://github.com/hturbe/proto-fm) 
+- Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments [paper](https://arxiv.org/pdf/2503.09820) 
+
 
 
 #### Audio
