@@ -15,7 +15,7 @@
 ### Explainability in Perception
 
 #### Explainable Computer Vision for Robotics
-
+##### Saliency Map
 - Efficient Saliency Maps for Explainable AI [paper](https://arxiv.org/pdf/1911.11293) [code](https://github.com/LLNL/fastcam)
 - Immersive Explainability: Visualizing Robot Navigation Decisions through XAI Semantic Scene Projections in Virtual Reality [paper](https://arxiv.org/pdf/2504.00682)
 - CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gadre_CoWs_on_Pasture_Baselines_and_Benchmarks_for_Language-Driven_Zero-Shot_Object_CVPR_2023_paper.pdf) [project](https://cow.cs.columbia.edu/) [code](https://github.com/real-stanford/cow)
@@ -23,13 +23,13 @@
 - Trust Through Transparency: Explainable Social Navigation for Autonomous Mobile Robots via Vision-Language Models [paper](https://arxiv.org/pdf/2504.05477)
 - Visual Affordance Recognition: A Study on Explainability and Interpretability for Human Robot Interaction [paper](https://link.springer.com/chapter/10.1007/978-3-031-66656-8_12#auth-Rupam-Bhattacharyya)
 - Leveraging explainability for understanding object descriptions in ambiguous 3D environments [paper](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.937772/full) 
-
+##### Attention Map
 - Transformer Interpretability Beyond Attention Visualization [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.html) [code](https://github.com/hila-chefer/Transformer-Explainability)
 - VLPG-Nav: Object Navigation Using Visual Language Pose Graph and Object Localization Probability Maps [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) 
 - Tell me why: Visual foundation models as self-explainable classifiers [paper](https://arxiv.org/abs/2502.19577) [code](https://github.com/hturbe/proto-fm) 
 - Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments [paper](https://arxiv.org/pdf/2503.09820) [code](https://gamma.umd.edu/researchdirections/crowdmultiagent/vilad/)
 
-##### point cloud
+##### Point Cloud
 - Fractual Projection Forest: Fast and Explainable Point Cloud Classifier [paper](https://openaccess.thecvf.com/content/WACV2023/html/Tan_Fractual_Projection_Forest_Fast_and_Explainable_Point_Cloud_Classifier_WACV_2023_paper.html)
 - 3D Point Cloud Feature Explanations Using Gradient-Based Methods [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9206688)
 - Surrogate Model-Based Explainability Methods for Point Cloud NNs [paper](http://openaccess.thecvf.com/content/WACV2022/papers/Tan_Surrogate_Model-Based_Explainability_Methods_for_Point_Cloud_NNs_WACV_2022_paper.pdf)|[LIME-3D](https://github.com/Explain3D/LIME-3D) 
